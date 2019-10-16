@@ -1,2 +1,3 @@
 # bulk-file-renamer
-Python, rename all files in a folder
+
+Rename all files in a folder in one shot
